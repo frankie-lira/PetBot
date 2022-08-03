@@ -1,0 +1,15 @@
+Looking for cats.
+How big of a cat are you looking for?
+Small
+What meowing frequency?
+When Necessary
+What trainability level?
+Easy
+What type of play level?
+High
+What type of activity level do you prefer?
+Active
+Are you ready to meet your recommended cat?
+Yes. 
+What do you recommend?
+Based upon your crtiteria, I recommend a Munchkin Cat. Hope you have a wonderful time with your pet!

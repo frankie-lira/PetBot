@@ -1,0 +1,15 @@
+Looking for dogs.
+How big of a dog are you looking for?
+Large
+What trainability level do you prefer?
+Easy
+What type of energy type are you looking for?
+Active
+What barking type do you prefer?
+When Necessary
+What type of exercise level do you prefer?
+High
+Are you ready to meet your recommended dog?
+Yes.
+What dog do you recommend? 
+Based upon your criteria, I recommend a Golden Retriver. Hope you have a wonderful time with your pet!
